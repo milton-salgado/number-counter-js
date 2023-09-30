@@ -22,7 +22,7 @@ Um contador de números de 0 a 10.
 ## 📋 Descrição
 
 Este é um projeto de um contador de números de 0 a 10.
-Esse projeto foi lançado como o desafio 02 do módulo 02 do curso de front-end do "Vai na Web". Sua principal proposta era colocar os conhecimento de lógica de programação coma linguagem JavaScript, aliado com HTML5 e CSS3. O modelo a ser seguido foi apresentado em aula. O contador em questão possui 10 como o limite superior de incrementação e 0 como o limite inferior de decrementação.
+Esse projeto foi lançado como o desafio 02 do módulo 02 do curso de front-end do "Vai na Web". Sua principal proposta era colocar os conhecimento de lógica de programação com a linguagem JavaScript, aliado com HTML5 e CSS3. O modelo a ser seguido foi apresentado em aula. O contador em questão possui 10 como o limite superior de incrementação e 0 como o limite inferior de decrementação.
 
 ### 🚀 Funcionalidades
 
