@@ -1,6 +1,6 @@
 # 🔢 Number Counter
 
-Um contador de números de 0 a 10.
+Um contador de números de 0 a 10, feito com a linguagem JavaScript.
 
 ## 📚 Tabela de Conteúdos
 
