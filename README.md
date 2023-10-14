@@ -1,10 +1,10 @@
-# 🔢 Number Counter
+# 🔢 Number Counter JS
 
 Um contador de números de 0 a 10, feito com a linguagem JavaScript.
 
 ## 📚 Tabela de Conteúdos
 
-- [🔢 Number Counter](#-number-counter)
+- [🔢 Number Counter JS](#-number-counter-js)
   - [📚 Tabela de Conteúdos](#-tabela-de-conteúdos)
   - [📋 Descrição](#-descrição)
     - [🚀 Funcionalidades](#-funcionalidades)
