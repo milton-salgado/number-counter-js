@@ -33,7 +33,7 @@ As funcionalidades disponíveis para os usuários estão listadas abaixo:
 
 ### 🌐 Acesso
 
-🖇️ [Clique aqui para acessar o projeto](https://milton-salgado.github.io/number-counter/)
+🖇️ [Clique aqui para acessar o projeto](https://milton-salgado.github.io/number-counter-js/)
 
 ### 📸 Prévia
 <div align="center">
